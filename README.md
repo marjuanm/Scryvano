@@ -1,2 +1,2 @@
-# mdtypo
-MD Typo is a Markdown editor with a retro look.
+# Scryvano
+Scryvano is a Markdown editor with a retro look.
