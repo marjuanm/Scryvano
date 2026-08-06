@@ -1,2 +1,2 @@
 # Scryvano
-Scryvano is a markdown editor with a retro look.
+ Scryvano is a lightweight writing editor focused on plain text, with markdown as its native format.
